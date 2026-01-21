@@ -1,2 +1,8 @@
-# PH447-Optics-and-Spectroscopy-Lab
-This repository includes all the experiments, along with notebooks for analysis and post-lab calculations. I’ve also attached the lab references to provide additional context
+# PH447: Optics and Spectroscopy Lab Repository Overview
+This repository contains:
+- All experimental data and records  
+- Jupyter notebooks for analysis and post‑lab calculations  
+- Attached lab references for additional context
+
+Course Incharge: Professor Anshuman Kumar
+Spring 2025-26
